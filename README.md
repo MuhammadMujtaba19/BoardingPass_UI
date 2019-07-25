@@ -1,16 +1,9 @@
-# boardingpass
+# Boarding Pass UI Challenge
 
-A new Flutter project.
+![](https://github.com/MuhammadMujtaba19/BoardingPass_UI/blob/master/assets/ui.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+### Note:-
+The UI Design is taken from https://dribbble.com/shots/6804371-Boarding-Pass-App/attachments/1452519 and I dont intend to use it for commercial or any other monitized purpose 
+JUST FOR EDUCATIONAL PURPOSE
